@@ -1,0 +1,7 @@
+{
+    "user": "DataBase User",
+    "password": "DataBase Password",
+    "host": "Host Name",
+    "database": "Database Name",
+    "path":"/this_is_a_path/example"
+}
